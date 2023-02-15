@@ -14,7 +14,6 @@ void main(List<String> arguments) {
 }
 
 //const la hang so trong luc bien dich. Final la hang so va se nhan duoc trong luc chay chuong trinh run time
-// có dấu hỏi tức là biến có thể chấp nhận kiểu null
 
 //tinh giai thua
 int Fatorial(int n) {
