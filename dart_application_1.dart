@@ -13,8 +13,6 @@ void main(List<String> arguments) {
   XuatMang(intList);
 }
 
-//const la hang so trong luc bien dich. 
-
 //tinh giai thua
 int Fatorial(int n) {
   if (n == 1) {
