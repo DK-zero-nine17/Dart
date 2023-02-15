@@ -13,7 +13,7 @@ void main(List<String> arguments) {
   XuatMang(intList);
 }
 
-//const la hang so trong luc bien dich. Final la hang so va se nhan duoc trong luc chay chuong trinh run time
+//const la hang so trong luc bien dich. 
 
 //tinh giai thua
 int Fatorial(int n) {
